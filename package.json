@@ -19,8 +19,7 @@
   "devEngines": {
     "packageManager": {
       "name": "npm",
-      "version": ">=11.6.2",
-      "onFail": "warn"
+      "version": "11.12.1"
     }
   },
   "workspaces": [
